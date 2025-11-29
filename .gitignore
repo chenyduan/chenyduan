@@ -1,4 +1,5 @@
 .idea
 *
-!/Minio/
-!/Git/
+!Minio/**
+!Git/
+!Git/**

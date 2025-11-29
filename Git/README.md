@@ -13,3 +13,9 @@ abc.md  # 忽略adc.md文件
 !Git/    # 在上一步忽略全部的情况下, 不忽略 Git 目录
 !Git/**   # 在上一步忽略全部的情况下, 不忽略 Git 目录下的文件
 ~~~
+
+
+
+## Git 的GUI 客户端
+- sourcetree
+https://www.sourcetreeapp.com/

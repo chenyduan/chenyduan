@@ -1,5 +1,11 @@
 .idea
 *
+
+!AI/
+!AI/**
+
 !Minio/**
+
 !Git/
 !Git/**
+

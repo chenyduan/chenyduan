@@ -9,5 +9,7 @@
 !Git/
 !Git/**
 
+!OperatingSystem/**
+
 !ProjectManager
 !ProjectManager/**

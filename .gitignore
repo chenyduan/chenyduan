@@ -9,5 +9,8 @@
 !Git/
 !Git/**
 
+!Java/
+!Java/**
+
 !ProjectManager
 !ProjectManager/**

@@ -25,7 +25,7 @@ https://www.sourcetreeapp.com/
 https://github.com/sourcegit-scm/sourcegit.git
 
 - Rust开发的Git客户端 https://github.com/gitbutlerapp/gitbutler.git
-
+- LazyGit,GO实现的客户端  https://github.com/jesseduffield/lazygit.git
 
 ## Git 的第三方实现，一般用于学习
 - Rust实现的Git https://github.com/GitoxideLabs/gitoxide.git

@@ -6,6 +6,7 @@
 - github的命令行工具
 
 ## 安装Github cli
+- https://cli.github.com
 ~~~
 (type -p wget >/dev/null || (sudo apt update && sudo apt install wget -y)) \
 && sudo mkdir -p -m 755 /etc/apt/keyrings \

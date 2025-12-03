@@ -7,6 +7,7 @@
 
 ## 安装Github cli
 - https://cli.github.com
+- https://github.com/cli/cli.git
 ~~~
 (type -p wget >/dev/null || (sudo apt update && sudo apt install wget -y)) \
 && sudo mkdir -p -m 755 /etc/apt/keyrings \

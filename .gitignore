@@ -6,9 +6,13 @@
 
 !Minio/**
 
+!MySQL/
+!MySQL/**
+
 !Git/
 !Git/**
 
+!OperatingSystem/
 !OperatingSystem/**
 
 !ProjectManager
